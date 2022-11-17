@@ -8,9 +8,9 @@
    :wrench: Ter uma conta no Jira :
    https://atlassian.com.br</b>;
 
-   :wrench: aessar o site saue labs: https://www.saucedemo.com/
+   :wrench: acessar o site sauce labs: https://www.saucedemo.com/
 
-    :wrench: criar um mapa mental,pode usar ferramentas online ou baixar, ferramenta usada é a xmind:https://xmind.app/
+    🔧criar um mapa mental,ferramenta usada é a xmind:https://xmind.app/
    
 
    ## :pencil:  Realizando a Documentação  ##
